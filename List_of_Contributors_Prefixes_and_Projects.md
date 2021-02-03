@@ -6,8 +6,8 @@
 | BGC_Munich                | BGC, Helmholtz-Zentrum Muenchen                                         | Germany         | RP             |                            |
 | Boise_State_Univ          | Boise State University                                                  | USA             | BSU            |                            |
 | BS                        | Plant Biology, The Noble Foundation                                     |                 | BS             |                            |
-| CASMI2012                 | CASMI 2012 Contest                                                      |                 | SMI            |                            |
-| CASMI2016                 | CASMI 2016 Contest                                                      |                 | SM             |                            |
+| CASMI_2012                 | CASMI 2012 Contest                                                      |                 | SMI            |                            |
+| CASMI_2016                 | CASMI 2016 Contest                                                      |                 | SM             |                            |
 | Chubu_Univ                | College of Life and Health Sciences Chubu University                    | Japan           | UT             |                            |
 | Eawag                     | Eawag - Swiss Federal Institute of Aquatic Science and Technology       | Switzerland     | EA, EQ         | SOLUTIONS                  |
 | Eawag_Additional_Specs    | Eawag - Swiss Federal Institute of Aquatic Science and Technology       | Switzerland     | ET, ETS        |                            |
